@@ -15,9 +15,9 @@
   </ol>
   <!-- Carousel items -->
   <div class="carousel-inner">
-    <div class="active item"><img src="recursos/imagen1.jpg"></div>
-    <div class="item"><img src="recursos/imagen2.jpg"></div>
-    <div class="item"><img src="recursos/imagen3.jpg"></div>
+    <div class="active item"><img src="recursos/fer1.jpg"></div>
+    <div class="item"><img src="recursos/fer2.jpg"></div>
+    <div class="item"><img src="recursos/fer3.jpg"></div>
   </div>
   <!-- Carousel nav -->
   <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
