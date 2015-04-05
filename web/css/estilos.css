@@ -27,12 +27,12 @@ footer{
 }
 .slide, .item{
 	width: 500px;
-	height: 360px;
-	margin: 2px auto;
+	height: 380px;
+	margin: 1px auto;
 }
 .item{
-	width: 550px;
-	height: 350px;
+	width: 500px;
+	height: 320px;
 }
 .slide{
 	margin-top: -50px;
