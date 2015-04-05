@@ -21,13 +21,14 @@ footer{
 }
 .cabecera2{
  	text-align: center;
- 	margin-top: -140px;
+ 	margin-top: 10px;
  	color: #FFFFFF;
+ 	height: 100px;
 }
 .slide, .item{
 	width: 500px;
-	height: 350px;
-	margin: 1px auto;
+	height: 360px;
+	margin: 2px auto;
 }
 .item{
 	width: 550px;
@@ -36,4 +37,10 @@ footer{
 .slide{
 	margin-top: -50px;
 	margin-right: 430px;
+}
+.logeo{
+	height: 110px;
+	padding: 50px;
+	text-align: center;
+	font-weight: bold;
 }
