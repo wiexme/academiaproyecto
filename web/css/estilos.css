@@ -19,4 +19,21 @@ footer{
 	margin-left: 200px;
 	margin-right: 200px;
 }
-
+.cabecera2{
+ 	text-align: center;
+ 	margin-top: -140px;
+ 	color: #FFFFFF;
+}
+.slide, .item{
+	width: 500px;
+	height: 350px;
+	margin: 1px auto;
+}
+.item{
+	width: 550px;
+	height: 350px;
+}
+.slide{
+	margin-top: -50px;
+	margin-right: 430px;
+}
